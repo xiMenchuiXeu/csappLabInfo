@@ -1,5 +1,7 @@
 # csappLabInfo
 
+具体背景见shlab.pdf文件和其中的.pptx文件
+
 未改进前的纯c文件无change后缀
 改进后的文件主要是job,signalHandler,tsh文件，有change后缀
 mySystem文件主要是对原先tsh文件中的mySystem函数进行重写，但是重写并没有成功；运行出现问题
